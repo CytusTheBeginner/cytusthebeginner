@@ -21,7 +21,7 @@
 ## 🎨 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
 </td>
@@ -31,7 +31,7 @@
 ## ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python" />
 </p>
 
 </td>
@@ -44,7 +44,6 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.shields.io/badge/Canva-1F2937?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 </td>
